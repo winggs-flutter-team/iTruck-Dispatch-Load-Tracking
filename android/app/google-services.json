@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "561382505862",
+    "project_id": "itruck-dispatch-fb443",
+    "storage_bucket": "itruck-dispatch-fb443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561382505862:android:f434fea81a1940410f4007",
+        "android_client_info": {
+          "package_name": "com.example.itruck_dispatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561382505862-1iibidgavs8sa3ofh9699ugvi640bnis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.itruck_dispatch",
+            "certificate_hash": "0c39a1a1c24c8dea834868cc7e5252ca57a20bcd"
+          }
+        },
+        {
+          "client_id": "561382505862-o62825d04fitlqhkge247oj0ips6i38b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDosp5GDs0OcHc4JGt99MP-pOzlfosklI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561382505862-o62825d04fitlqhkge247oj0ips6i38b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561382505862:android:234a7f60e2e976470f4007",
+        "android_client_info": {
+          "package_name": "com.loadtracking.itruckdispatchinc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561382505862-o62825d04fitlqhkge247oj0ips6i38b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDosp5GDs0OcHc4JGt99MP-pOzlfosklI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561382505862-o62825d04fitlqhkge247oj0ips6i38b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
